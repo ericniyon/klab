@@ -1,0 +1,104 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@1,200;1,500&family=Roboto:ital,wght@0,300;0,400;1,700&display=swap'); */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #ddd;
+
+}
+#nav{
+    background: navy;
+    color: #fff;
+    display: flex;
+    justify-content: space-around;
+    padding: 2em 0;
+
+}
+.list ol{
+    display: flex;
+}
+
+.list ol li a{
+    margin: 0 1.5rem;
+    text-shadow: 0em 4px orange;
+}
+
+#main{
+    
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}fff
+/* kuri header  */
+h3{
+    color: #fff;
+    font-size:4rem;
+}
+
+h4{
+    color: #000000;
+    font-size: 3rem;
+}
+
+h6{
+    font-size: 3rem;
+}
+
+
+.div1{
+ width: 30%; 
+ 
+ margin: 12px; 
+}
+.div2{
+    width: 40%;
+    margin: 12px;
+}
+.div3{
+    width: 30%;
+    margin: 12px;
+}
+
+#footer{
+    background: grey;
+    height: 100px;
+}
+
+#nav ol li{
+    text-decoration: none;
+    list-style: none;
+
+}
+#nav ol li a{
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}
+#nav ol li a:hover{
+    color: orange;
+    text-shadow: 20px;
+}
+.div3 h6:hover{
+    color: orange;
+
+}
+#nav ol li{
+    display: flex;
+}
+
+#about{
+    display: flex;
+    margin: 2em 0;
+}
+
+.container{
+    padding: 2em;
+}
+.about-content{
+    margin: 0 0 0 2em;
+}
