@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "simple is better than complex",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto quis perferendis nesciunt debitis eos, praesentium laudantium. Molestias dolorum odit similique doloremque ullam incidunt a esse autem deleniti? Consectetur architecto sequi commodi provident, eveniet dolor nulla ratione possimus minima. Necessitatibus ullam maxime, distinctio iste eius quas suscipit hic laboriosam ipsum dolores deserunt et debitis! At alias reiciendis magni eos labore? Voluptatibus repellendus quos fugit at quaerat eum, reprehenderit obcaecati assumenda illum numquam vitae omnis? Impedit, minima in! Reiciendis amet nulla natus aperiam quisquam rerum temporibus cumque dolorum possimus reprehenderit, ullam, repudiandae ipsa quibusdam officia quis provident voluptates, eum necessitatibus corporis. Accusantium nam veniam sequi nisi ratione pariatur! Officia dolores dolor est quas quia non dolorum molestiae, iure voluptas perspiciatis, ut quidem itaque maxime amet quo tenetur deleniti delectus facilis minus. Aut optio ipsum exercitationem ipsa vitae nesciunt atque eligendi amet perspiciatis illo cumque deleniti accusamus, dicta voluptatum totam mollitia dignissimos, ut aliquam? Amet tempore quidem doloremque rerum quasi accusantium ipsam deserunt magni enim, quos eos perferendis soluta nemo, adipisci nihil fugit? Tenetur provident dignissimos autem quas dolore qui a nobis dolorem magni ut mollitia accusantium illo atque unde sed, eveniet in placeat tempora praesentium? Voluptas eos et rerum quas maiores molestias vel nemo eum error repellat deleniti obcaecati ipsum corporis, id tempora nobis sunt consequuntur. Quae vel soluta odio eaque suscipit fugit ipsum voluptate assumenda quis rem id commodi porro quas, numquam, consectetur vitae deleniti. Ad veritatis quibusdam alias ut itaque esse ullam voluptas consequuntur beatae, fuga voluptatum quasi autem dignissimos.",
+      "likes": 20
+    },
+    {
+      "id": 2,
+      "title": "triying simple thing first",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto quis perferendis nesciunt debitis eos, praesentium laudantium. Molestias dolorum odit similique doloremque ullam incidunt a esse autem deleniti?  sequi commodi provident, eveniet dolor nulla ratione possimus minima. Necessitatibus ullam maxime, distinctio iste eius quas suscipit hic laboriosam ipsum dolores deserunt et debitis! At alias reiciendis magni eos labore? Voluptatibus repellendus quos fugit at quaerat eum, reprehenderit obcaecati assumenda illum numquam vitae omnis? Impedit, minima in! Reiciendis amet nulla natus aperiam quisquam rerum temporibus cumque dolorum possimus reprehenderit, ullam, repudiandae ipsa quibusdam officia quis provident voluptates, eum necessitatibus corporis. Accusantium nam veniam sequi nisi ratione pariatur! Officia dolores dolor est quas quia non dolorum molestiae, iure voluptas perspiciatis, ut quidem itaque maxime amet quo tenetur deleniti delectus facilis minus. Aut optio ipsum exercitationem ipsa vitae nesciunt atque eligendi amet perspiciatis illo cumque deleniti accusamus, dicta voluptatum totam mollitia dignissimos, ut aliquam? Amet tempore quidem doloremque rerum quasi accusantium ipsam deserunt magni enim, quos eos perferendis soluta nemo, adipisci nihil fugit? Tenetur provident dignissimos autem quas dolore qui a nobis dolorem magni ut mollitia accusantium illo atque unde sed, eveniet in placeat tempora praesentium? Voluptas eos et rerum quas maiores molestias vel nemo eum error repellat deleniti obcaecati ipsum corporis, id tempora nobis sunt consequuntur. Quae vel soluta odio eaque suscipit fugit ipsum voluptate assumenda quis rem id commodi porro quas, numquam, consectetur vitae deleniti. Ad veritatis quibusdam alias ut itaque esse ullam voluptas consequuntur beatae, fuga voluptatum quasi autem dignissimos.",
+      "likes": 12
+    },
+    {
+      "id": 3,
+      "title": "Consectetur architecto",
+      "body": "Lorem, ipsum dolor sit amet consectetur adipisicing elit. Architecto quis perferendis nesciunt debitis eos, praesentium laudantium. Molestias dolorum odit similique doloremque ullam incidunt a esse autem deleniti? Consectetur architecto sequi commodi provident, eveniet dolor nulla ratione possimus minima. Necessitatibus ullam maxime, distinctio iste eius quas suscipit hic laboriosam ipsum dolores deserunt et debitis! At alias reiciendis magni eos labore? Voluptatibus repellendus quos fugit at quaerat eum, reprehenderit obcaecati assumenda illum numquam vitae omnis? Impedit, minima in! Reiciendis amet nulla natus aperiam quisquam rerum temporibus cumque dolorum possimus reprehenderit, ullam, repudiandae ipsa quibusdam officia quis provident voluptates, eum necessitatibus corporis. Accusantium nam veniam sequi nisi ratione pariatur! Officia dolores dolor est quas quia non dolorum molestiae, iure voluptas perspiciatis, ut quidem itaque maxime amet quo tenetur deleniti delectus facilis minus. Aut optio ipsum exercitationem ipsa vitae nesciunt atque eligendi amet perspiciatis illo cumque deleniti accusamus, dicta voluptatum totam mollitia dignissimos, ut aliquam? Amet tempore quidem doloremque rerum quasi accusantium ipsam deserunt magni enim, quos eos perferendis soluta nemo, adipisci nihil fugit? Tenetur provident dignissimos autem quas dolore qui a nobis dolorem magni ut mollitia accusantium illo atque unde sed, eveniet in placeat tempora praesentium? Voluptas eos et rerum quas maiores molestias vel nemo eum error repellat deleniti obcaecati ipsum corporis, id tempora nobis sunt consequuntur. Quae vel soluta odio eaque suscipit fugit ipsum voluptate assumenda quis rem id commodi porro quas, numquam, consectetur vitae deleniti. Ad veritatis quibusdam alias ut itaque esse ullam voluptas consequuntur beatae, fuga voluptatum quasi autem dignissimos.",
+      "likes": 4
+    },
+    {
+      "title": "Veritatis exercitati",
+      "body": "Sed voluptate adipisToggling a checkbox is the default action of clicking on a checkbox. This example demonstrates how to prevent that from happening:",
+      "likes": 0,
+      "id": 4
+    },
+    {
+      "title": "title",
+      "body": "Toggling a checkbox is the default action of clicking on a checkbox. This example demonstrates how to prevent that from happening:",
+      "likes": 0,
+      "id": 5
+    }
+  ]
+}
